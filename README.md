@@ -8,12 +8,10 @@
 # Installation
 - if your php version is smaller than 5.4 go to cPanel and look for "PHP Version Manager" or "ntPHPSelector" and set the desired version for your public directory of your phalcon project.
 - copy the desired phalcon.so on your cPanel account
-```
 https://github.com/magnxpyr/phalcon.so/archive/php5.4.zip
 https://github.com/magnxpyr/phalcon.so/archive/php5.5.zip
 https://github.com/magnxpyr/phalcon.so/archive/master.zip
 
-```
 - add the extension in php.ini
 ```
 extension=/path/to/phalcon.so
