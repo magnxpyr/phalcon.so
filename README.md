@@ -2,7 +2,7 @@
 - centos 6.6 kernel 2.6.32-504.23.4.el6.x86_64
 - phalcon 2.0.4
 - php 5.4.42
-- php 5.5.26
+- php 5.5.27
 - php 5.6.10
 
 # Installation
