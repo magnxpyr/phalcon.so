@@ -1,6 +1,6 @@
 # phalcon.so for cPanel
 - centos 6.6 kernel 2.6.32-504.23.4.el6.x86_64
-- phalcon 2.0.4
+- phalcon 2.0.6
 - php 5.4.42
 - php 5.5.27
 - php 5.6.10
