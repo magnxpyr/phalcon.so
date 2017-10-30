@@ -1,12 +1,12 @@
 # Phalcon PHP on cPanel
 
-Some hosts comes by default with Phalcon Frameworks or lets you enable optionally. A list of hosts that has Phalcon by default can be found [here](https://phalconphp.com/en/hosting).
+Some hosts comes by default with Phalcon Frameworks or lets you enable optionally. A list of hosts that has Phalcon by default can be found <a href="https://phalconphp.com/en/hosting" target="_blank">here</a>.
 
 Most cPanel shared hosts allows you to change php version, edit _php.ini_ and add extensions. This should enable you to add phalcon.so.
 
 If none of these options are available, ask your hosting provider if is possible to enable Phalcon, otherwise your only option is to switch your hosting.
 
-  
+<br /><br />
 ### Installation on cPanel
 1. Login to cPanel
 2. If your PHP version is smaller than 5.6, go to **Software/Services** section of the cPanel home screen, click **Select PHP Version** (or similar).  
@@ -20,8 +20,8 @@ If none of these options are available, ask your hosting provider if is possible
 ```
 extension=/path/to/phalcon.so
 ```
-  
-  
+
+<br /><br />
 ### Manual installation on cPanel
 If the above steps are not available, you could try a manual approach. These steps are basically what cPanel is doing automatically.
 
