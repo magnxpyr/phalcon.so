@@ -1,6 +1,6 @@
 # Phalcon PHP on cPanel
 
-Some hosts comes by default with Phalcon Frameworks or lets you enable optionally. A list of hosts that has Phalcon by default can be found <a href="https://phalconphp.com/en/hosting" target="_blank">here</a>.
+Some hosts comes by default with Phalcon Frameworks or lets you enable optionally. A list of hosts that has Phalcon by default can be found [here](https://phalconphp.com/en/hosting).
 
 Most cPanel shared hosts allows you to change php version, edit _php.ini_ and add extensions. This should enable you to add phalcon.so.
 
